@@ -1,5 +1,3 @@
-//Edgars Krauja 241RDB039
-
 package main
 
 import (
